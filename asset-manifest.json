@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monsters_academy/static/css/main.d32b8002.chunk.css",
+    "main.js": "/monsters_academy/static/js/main.b9fe0636.chunk.js",
+    "main.js.map": "/monsters_academy/static/js/main.b9fe0636.chunk.js.map",
+    "runtime-main.js": "/monsters_academy/static/js/runtime-main.975c514c.js",
+    "runtime-main.js.map": "/monsters_academy/static/js/runtime-main.975c514c.js.map",
+    "static/js/2.c72f5ba6.chunk.js": "/monsters_academy/static/js/2.c72f5ba6.chunk.js",
+    "static/js/2.c72f5ba6.chunk.js.map": "/monsters_academy/static/js/2.c72f5ba6.chunk.js.map",
+    "index.html": "/monsters_academy/index.html",
+    "precache-manifest.43830366806686c0bff8b4c5ab57481f.js": "/monsters_academy/precache-manifest.43830366806686c0bff8b4c5ab57481f.js",
+    "service-worker.js": "/monsters_academy/service-worker.js",
+    "static/css/main.d32b8002.chunk.css.map": "/monsters_academy/static/css/main.d32b8002.chunk.css.map",
+    "static/js/2.c72f5ba6.chunk.js.LICENSE.txt": "/monsters_academy/static/js/2.c72f5ba6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.975c514c.js",
+    "static/js/2.c72f5ba6.chunk.js",
+    "static/css/main.d32b8002.chunk.css",
+    "static/js/main.b9fe0636.chunk.js"
+  ]
+}
